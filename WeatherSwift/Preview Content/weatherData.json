@@ -1,45 +1,45 @@
 {
-    "coord": {
-        "lon": -43.9378,
-        "lat": -19.9208
-    },
-    "weather": [
-        {
-            "id": 803,
-            "main": "Clouds",
-            "description": "broken clouds",
-            "icon": "04d"
-        }
-    ],
-    "base": "stations",
-    "main": {
-        "temp": 297.11,
-        "feels_like": 296.92,
-        "temp_min": 296.72,
-        "temp_max": 297.9,
-        "pressure": 1021,
-        "humidity": 52,
-        "sea_level": 1021,
-        "grnd_level": 912
-    },
-    "visibility": 10000,
-    "wind": {
-        "speed": 2.57,
-        "deg": 70
-    },
-    "clouds": {
-        "all": 75
-    },
-    "dt": 1722788086,
-    "sys": {
-        "type": 2,
-        "id": 2086218,
-        "country": "BR",
-        "sunrise": 1722763420,
-        "sunset": 1722803995
-    },
-    "timezone": -10800,
-    "id": 3470127,
-    "name": "Belo Horizonte",
-    "cod": 200
+  "coord": {
+    "lon": -43.9378,
+    "lat": -19.9208
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21.39,
+    "feels_like": 21.15,
+    "temp_min": 20.86,
+    "temp_max": 21.75,
+    "pressure": 1022,
+    "humidity": 60,
+    "sea_level": 1022,
+    "grnd_level": 912
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.57,
+    "deg": 80
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1722810644,
+  "sys": {
+    "type": 2,
+    "id": 2086218,
+    "country": "BR",
+    "sunrise": 1722763420,
+    "sunset": 1722803995
+  },
+  "timezone": -10800,
+  "id": 3470127,
+  "name": "Belo Horizonte",
+  "cod": 200
 }
